@@ -1,2 +1,2 @@
 # hello-world
-This is a sample repository to test github features
+This is a sample repository to test github features.
